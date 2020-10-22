@@ -1,0 +1,7 @@
+## Title: |cff3399FFKab|r Shield Bar
+## Interface: 90001
+## Author: Kab
+## Version: 1.10
+## Notes: A simple Shield bar.
+
+KabShieldBar.lua
