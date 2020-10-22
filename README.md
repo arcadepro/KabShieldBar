@@ -1,3 +1,3 @@
 # KabShieldBar
-## Basic Ignore Pain Bar.
+### A basic Ignore Pain Bar.
 Shadowlands version.
